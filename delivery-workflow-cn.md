@@ -19,7 +19,7 @@ The development team will confirm the requirements（move  to status 5）, or Qu
 
 ## C0
 Modules that are complex and involve many other modules
-The development team needs to submit the prototype development design document in state 2
+The development team needs to submit the prototype development design document in status 2
 
 ## C1
 normal workflow 
